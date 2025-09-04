@@ -3,6 +3,9 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+# macos files
+.DS_Store
+
 # dotenv files
 .env
 
