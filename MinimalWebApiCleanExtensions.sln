@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalWebApiCleanExtension
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{0C88DD14-F956-CE84-757C-A364CCF449FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalWebApiCleanExtensions.Tests", "test\MinimalWebApiCleanExtensions.Tests\MinimalWebApiCleanExtensions.Tests.csproj", "{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,11 +33,24 @@ Global
 		{24BB1C58-E19C-4FB7-8C5C-40AA3049EC25}.Release|x64.Build.0 = Release|Any CPU
 		{24BB1C58-E19C-4FB7-8C5C-40AA3049EC25}.Release|x86.ActiveCfg = Release|Any CPU
 		{24BB1C58-E19C-4FB7-8C5C-40AA3049EC25}.Release|x86.Build.0 = Release|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Debug|x64.Build.0 = Debug|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Debug|x86.Build.0 = Debug|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Release|x64.ActiveCfg = Release|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Release|x64.Build.0 = Release|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Release|x86.ActiveCfg = Release|Any CPU
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{24BB1C58-E19C-4FB7-8C5C-40AA3049EC25} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{4B6322C9-BFD1-4EDD-BF0F-0CBC9168CFAD} = {0C88DD14-F956-CE84-757C-A364CCF449FC}
 	EndGlobalSection
 EndGlobal
